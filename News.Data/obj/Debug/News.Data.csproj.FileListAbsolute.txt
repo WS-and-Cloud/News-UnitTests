@@ -1,0 +1,16 @@
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\News.Data.dll.config
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\News.Data.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\News.Data.pdb
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\EntityFramework.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\News.Models.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\News.Models.pdb
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\EntityFramework.xml
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\obj\Debug\News.Data.csprojResolveAssemblyReference.cache
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\obj\Debug\News.Data.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Data\obj\Debug\News.Data.pdb

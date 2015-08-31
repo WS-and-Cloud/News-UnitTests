@@ -1,0 +1,9 @@
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\News.Models.dll.config
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\News.Models.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\News.Models.pdb
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\EntityFramework.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\EntityFramework.xml
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\obj\Debug\News.Models.dll
+E:\Visual Studio[WorkSpace]\WS-Cloud\News\News.Models\obj\Debug\News.Models.pdb
