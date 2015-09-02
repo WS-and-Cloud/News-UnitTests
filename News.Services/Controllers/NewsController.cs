@@ -8,6 +8,7 @@
     using News.Models;
     using News.Services.Models.NewsModels;
 
+    [Authorize]
     public class NewsController : BaseApiController
     {
         public NewsController()
@@ -21,6 +22,7 @@
 
         // GET api/news
         [HttpGet]
+        [AllowAnonymous]
         public IHttpActionResult GetAllNews()
         {
             var allnews =

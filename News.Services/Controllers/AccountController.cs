@@ -330,7 +330,7 @@ namespace News.Services.Controllers
                 return BadRequest(ModelState);
             }
 
-            var user = new ApplicationUser() { UserName = model.Email, Email = model.Email };
+            var user = new ApplicationUser() { UserName = model.Username };
 
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
 
@@ -359,7 +359,7 @@ namespace News.Services.Controllers
                 return InternalServerError();
             }
 
-            var user = new ApplicationUser() { UserName = model.Email, Email = model.Email };
+            var user = new ApplicationUser() { UserName = model.Username };
 
             IdentityResult result = await UserManager.CreateAsync(user);
             if (!result.Succeeded)
